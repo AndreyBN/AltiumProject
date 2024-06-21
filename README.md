@@ -1,0 +1,1 @@
+STM32L052 shematic
